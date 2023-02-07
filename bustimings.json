@@ -1,0 +1,45 @@
+﻿
+[
+    {
+        "ServiceNo": "52",
+        "Arrival_time(Min)": "7",
+        "Arrival_time(Min)2": "15",
+        "Arrival_time(Min)3": "28"
+    },
+    {
+        "ServiceNo": "61",
+        "Arrival_time(Min)": "12",
+        "Arrival_time(Min)2": "22",
+        "Arrival_time(Min)3": "32"
+    },
+    {
+        "ServiceNo": "154",
+        "Arrival_time(Min)": "4",
+        "Arrival_time(Min)2": "10",
+        "Arrival_time(Min)3": "23"
+    },
+    {
+        "ServiceNo": "74",
+        "Arrival_time(Min)": "Arr",
+        "Arrival_time(Min)2": "11",
+        "Arrival_time(Min)3": "18"
+    },
+    {
+        "ServiceNo": "151",
+        "Arrival_time(Min)": "1",
+        "Arrival_time(Min)2": "14",
+        "Arrival_time(Min)3": "29"
+    },
+    {
+        "ServiceNo": "184",
+        "Arrival_time(Min)": "2",
+        "Arrival_time(Min)2": "8",
+        "Arrival_time(Min)3": "16"
+    },
+    {
+        "ServiceNo": "75",
+        "Arrival_time(Min)": "18",
+        "Arrival_time(Min)2": "32",
+        "Arrival_time(Min)3": "-"
+    }
+]
